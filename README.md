@@ -4,8 +4,11 @@ A computer vision-based project that allows you to control the volume of your PC
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/somasathvik/Gesture-Volume-Control/assets/114153904/c11e1573-1a1a-4083-bb00-728c62e953f0)
-![Screenshot 2](https://github.com/somasathvik/Gesture-Volume-Control/assets/114153904/becc70ae-1db1-4792-9402-67ddd3dbbd3c)
+
+![Screenshot 2024-02-27 143720](https://github.com/harshavangari/gesture-volume-control/assets/115146449/7f9a83f5-ce12-42fa-9c6e-fe78dff02312)
+
+![Screenshot 2024-02-27 143842](https://github.com/harshavangari/gesture-volume-control/assets/115146449/5138acfc-2b41-47e3-9ac6-8a2b6562964e)
+
 
 ## Technologies Used
 
